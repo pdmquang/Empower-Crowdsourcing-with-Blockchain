@@ -1,4 +1,4 @@
-# Making use of Blockchain and Ethereum to create fake news detection model
+# Incentivise Crowdsourcing with Blockchain and Ethereum
 
 ## Design Proposal 
 (*Refer to the ***FinalReport.pdf and Powerpoint.pdf*** for more detail about the project.* )
