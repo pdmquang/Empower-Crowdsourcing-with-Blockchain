@@ -1,0 +1,6 @@
+# Compiled
+dist/*
+# Dependencies
+node_modules/*
+# IDEs
+.vscode/*
