@@ -1,7 +1,7 @@
 # Making use of Blockchain and Ethereum to create fake news detection model
 
 ## Design Proposal 
-(*Refer to the ***FinalReport.pdf and Powerpoint*** for more detail about the project.* )
+(*Refer to the ***FinalReport.pdf and Powerpoint.pdf*** for more detail about the project.* )
 
 I present the system that makes use of Ethereum Blockchain technology to provide incentives for anyone
 to start building a bigger corpus of labeled fake news and subsequently increase the
